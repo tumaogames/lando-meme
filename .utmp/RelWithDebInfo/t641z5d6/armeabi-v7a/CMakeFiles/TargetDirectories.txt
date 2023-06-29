@@ -1,0 +1,5 @@
+C:/Users/artchel06/Documents/Unity/Lando Meme/.utmp/RelWithDebInfo/t641z5d6/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/artchel06/Documents/Unity/Lando Meme/.utmp/RelWithDebInfo/t641z5d6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/artchel06/Documents/Unity/Lando Meme/.utmp/RelWithDebInfo/t641z5d6/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/artchel06/Documents/Unity/Lando Meme/.utmp/RelWithDebInfo/t641z5d6/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/artchel06/Documents/Unity/Lando Meme/.utmp/RelWithDebInfo/t641z5d6/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
